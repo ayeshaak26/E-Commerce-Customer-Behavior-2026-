@@ -13,7 +13,7 @@ An end-to-end analytical engineering project that processes over 100,000 multi-d
 
 To interact with this business dashboard locally, follow these steps:
 
-1. **Download the Source Data:** Download the raw data file directly from Kaggle: [🔗 Kaggle: E-Commerce Customer Behavior (2026)](https://kaggle.com).
+1. **Download the Source Data:** Download the raw data file directly from Kaggle: [🔗 Kaggle: E-Commerce Customer Behavior (2026)](https://www.kaggle.com/datasets/datascikhan/e-commerce-customer-behavior-dataset-2026?resource=download).
 2. **Place Files Together:** Extract the downloaded `ecommerce_customer_behavior_2026.csv` file into this exact folder directory.
 3. **Execute the App:** Open your terminal or command prompt (`cmd`) in this folder and run:
    ```bash
